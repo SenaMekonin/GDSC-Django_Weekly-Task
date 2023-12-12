@@ -32,7 +32,7 @@ def apply_operations(operation_list):
         except Exception as e:
             results.append(f"Error: {e}")
 
-        return results
+    return results
 
         # Test apply_operations with exception handling
 operations= [
